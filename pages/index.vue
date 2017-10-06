@@ -11,7 +11,7 @@
 <script lang="ts">
     import Vue from "vue";
     import Component from "nuxt-class-component"
-    import Logo from "~components/Logo.vue"
+    import Logo from "~components/Logo"
     import {getHomepage} from '~/api';
 
     @Component({
